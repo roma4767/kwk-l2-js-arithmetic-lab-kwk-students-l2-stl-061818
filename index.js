@@ -16,3 +16,4 @@ let randomNumber = Math.random() * 20;
 
 let randomInteger = Math.round(randomNumber);
 
+let random
